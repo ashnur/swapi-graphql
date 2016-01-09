@@ -1,5 +1,6 @@
 {
   "name": "swapi-graphql",
+  "version": "0.0.1"
   "description": "A GraphQL wrapper for swapi.com",
   "contributors": [
     "Nicholas Schrock <schrockn@fb.com>",
